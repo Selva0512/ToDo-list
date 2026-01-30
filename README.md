@@ -1,16 +1,43 @@
-# React + Vite
+# 📝 React To-Do List (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal To-Do List application built with React.js, designed to demonstrate core frontend concepts such as state management, component reusability, and dynamic rendering.
 
-Currently, two official plugins are available:
+# 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add new tasks
 
-## React Compiler
+Mark tasks as completed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Edit existing tasks
 
-## Expanding the ESLint configuration
+Delete tasks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean and responsive UI
+
+Built using React functional components and hooks
+
+# 🛠️ Tech Stack
+
+React.js
+
+JavaScript (ES6+)
+
+HTML5
+
+CSS3
+
+# 📌 Notes
+
+This project is frontend-only (no backend or database).
+
+Task data is handled locally within the app state.
+
+Ideal for learning React fundamentals and building small UI-based projects.
+
+# 📦 Getting Started
+npm install
+npm start
+
+# 🎯 Purpose
+
+This project serves as a beginner-friendly example for developers learning React, focusing on UI logic and component-driven development without external dependencies.
