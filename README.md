@@ -2,7 +2,7 @@
 
 A minimal To-Do List application built with React.js, designed to demonstrate core frontend concepts such as state management, component reusability, and dynamic rendering.
 
-🚀# Features
+# 🚀 Features
 
 Add new tasks
 
@@ -16,7 +16,7 @@ Clean and responsive UI
 
 Built using React functional components and hooks
 
-🛠️# Tech Stack
+# 🛠️ Tech Stack
 
 React.js
 
@@ -26,7 +26,7 @@ HTML5
 
 CSS3
 
-📌# Notes
+# 📌 Notes
 
 This project is frontend-only (no backend or database).
 
@@ -34,10 +34,10 @@ Task data is handled locally within the app state.
 
 Ideal for learning React fundamentals and building small UI-based projects.
 
-📦# Getting Started
+# 📦 Getting Started
 npm install
 npm start
 
-🎯# Purpose
+# 🎯 Purpose
 
 This project serves as a beginner-friendly example for developers learning React, focusing on UI logic and component-driven development without external dependencies.
