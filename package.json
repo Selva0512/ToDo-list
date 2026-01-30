@@ -2,7 +2,7 @@
   "name": "todo-app",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://selva0512.github.io/ToDO-list",
+  "homepage": "https://Selva0512.github.io/ToDo-list",
   "type": "module",
   "scripts": {
     "dev": "vite",
