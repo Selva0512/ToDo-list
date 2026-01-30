@@ -1,4 +1,4 @@
-📝# React To-Do List (Frontend Only)
+#📝 React To-Do List (Frontend Only)
 
 A minimal To-Do List application built with React.js, designed to demonstrate core frontend concepts such as state management, component reusability, and dynamic rendering.
 
